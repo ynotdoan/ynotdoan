@@ -2,7 +2,7 @@
 - Undergrad at UC Merced majoring in CSE & minoring in CogSci
 - Contact:
   - [Email](ynotdoan@gmail.com)
-  - [Linkedin](www.linkedin.com/in/ynotdoan)
+  - [Linkedin](https://www.linkedin.com/in/ynotdoan/)
 
 <!---
 ynotdoan/ynotdoan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
