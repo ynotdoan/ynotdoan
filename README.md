@@ -2,7 +2,7 @@
   
   # ⬇ *CLICK ME* ⬇
 
-  [![www.ynotdoan.com](./assets/dancing-cat.gif "meow")](www.ynotdoan.com)
+  [![www.ynotdoan.com](./assets/dancing-cat.gif "meow")](http://www.ynotdoan.com)
   
 </div>
 
